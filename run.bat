@@ -1,0 +1,2 @@
+python3 pdf_splitter.py
+pause
